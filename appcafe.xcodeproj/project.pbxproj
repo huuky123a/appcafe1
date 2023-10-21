@@ -16,6 +16,7 @@
 		0B1F300C2ADA78BF00DFCD4B /* appcafeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B1F300B2ADA78BF00DFCD4B /* appcafeTests.swift */; };
 		0B1F30162ADA78BF00DFCD4B /* appcafeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B1F30152ADA78BF00DFCD4B /* appcafeUITests.swift */; };
 		0B1F30182ADA78BF00DFCD4B /* appcafeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B1F30172ADA78BF00DFCD4B /* appcafeUITestsLaunchTests.swift */; };
+		0B5405EF2ADA937900601CF1 /* CartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B5405EE2ADA937900601CF1 /* CartViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0B1F30112ADA78BF00DFCD4B /* appcafeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appcafeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B1F30152ADA78BF00DFCD4B /* appcafeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appcafeUITests.swift; sourceTree = "<group>"; };
 		0B1F30172ADA78BF00DFCD4B /* appcafeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appcafeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0B5405EE2ADA937900601CF1 /* CartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		0B1F2FF32ADA78BB00DFCD4B /* appcafe */ = {
 			isa = PBXGroup;
 			children = (
+				0B5405EE2ADA937900601CF1 /* CartViewController.swift */,
 				0B1F2FF42ADA78BB00DFCD4B /* AppDelegate.swift */,
 				0B1F2FF62ADA78BB00DFCD4B /* SceneDelegate.swift */,
 				0B1F2FF82ADA78BB00DFCD4B /* ViewController.swift */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B5405EF2ADA937900601CF1 /* CartViewController.swift in Sources */,
 				0B1F2FF92ADA78BB00DFCD4B /* ViewController.swift in Sources */,
 				0B1F2FF52ADA78BB00DFCD4B /* AppDelegate.swift in Sources */,
 				0B1F2FF72ADA78BB00DFCD4B /* SceneDelegate.swift in Sources */,
